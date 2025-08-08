@@ -1,7 +1,7 @@
-📝 To-Do List (Practice Project)
+📝 To-Do List (Practice Project) <br><br>
 A simple, responsive To-Do List built with HTML, CSS, and JavaScript to practice DOM manipulation, event handling, local storage, and responsive design.
 
-🚀 Features
+🚀 Features:<br> <br>
 ➕ Add tasks
 
 ✅ Mark as complete
@@ -10,18 +10,18 @@ A simple, responsive To-Do List built with HTML, CSS, and JavaScript to practice
 
 💾 Saves tasks with Local Storage
 
-📱 Works on all devices
+📱 Works on all devices<br>
 
-🛠 Tech Stack
-HTML5 • CSS3 • JavaScript • Local Storage API
+🛠 Tech Stack:<br><br>
+HTML5 • CSS3 • JavaScript • Local Storage API<br>
 
-📌 Usage
+📌 Usage:<br><br>
 Type a task in the input box.
 
 Click Add to add it.
 
 Click a task to mark it complete.
 
-Click × to delete it.
+Click × to delete it.<br><br>
 
-⚠ Note: Practice project — not for production use
+⚠ Note: Practice project — not for production use.
