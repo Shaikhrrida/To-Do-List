@@ -1,0 +1,57 @@
+/* phone.css */
+
+/* Applies to screens with width 768px or less (tablets and phones) */
+@media (max-width: 768px) {
+  .todo-app {
+    width: 90%;
+    margin: 50px auto 20px;
+    padding: 30px 20px 50px;
+  }
+
+  .todo-app h2 img {
+    max-width: 100%;
+    height: auto;
+    margin-left: 10px;  /* You can also make this % or em */
+}
+
+
+  .row {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 15px;
+    gap: 10px;
+    border-radius: 15px;
+  }
+
+  input {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px;
+  }
+
+  button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border-radius: 30px;
+  }
+
+  ul li {
+    font-size: 16px;
+    padding: 12px 8px 12px 45px;
+  }
+
+  ul li::before {
+    height: 24px;
+    width: 24px;
+    top: 12px;
+    left: 10px;
+  }
+
+  ul li span {
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    line-height: 35px;
+  }
+}
